@@ -1,0 +1,27 @@
+*{
+	border: 0;
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+	text-align: center;
+}
+/* body style */
+body{
+}
+/* header style */
+#img-header{
+	max-height: 100vh;
+	width: 100%;
+}
+#products img{
+	width: 70%;
+}
+.frame{
+	padding: 5px;
+	margin: 0px;
+}
+a{
+	text-decoration: none;
+	padding: 10px;
+	margin-bottom: 20px;
+}
